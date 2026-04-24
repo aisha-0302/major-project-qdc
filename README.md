@@ -15,8 +15,8 @@ Qiskit (Quantum Computing)
 Scikit-learn
 NumPy & Pandas
 Matplotlib
-📂 Dataset:
 
+📂 Dataset:
 The dataset (dems.csv) contains clinical and cognitive features
 Target column: Group (Demented / Non-Demented)
 🧠 Methodology:
@@ -29,32 +29,38 @@ Quantum Feature Mapping using Qiskit
 Train QSVC Model
 Train Classical SVM (for comparison)
 Evaluate using: Accuracy, Precision, Recall, F1-score
+
 📊 Results:
 
 QSVC (Quantum Model) achieved ~95% accuracy
 Classical SVM achieved ~57% accuracy
 Quantum model captures complex patterns more effectively
+
 📈 Graphs & Analysis:
 
 Accuracy comparison graphs
 Feature map performance analysis
 Model performance comparison (SVM vs QDC)
+
 ✨ Key Features:
 
 Quantum feature mapping using Qiskit
 Comparison with classical ML model
 Visualization of results
 Efficient and scalable approach
+
 📌 Conclusion: The proposed QDC model provides:
 
 Higher accuracy than classical methods
 Better handling of complex data relationships
 Faster and efficient prediction
+
 🔮 Future Work:
 
 Use real quantum hardware instead of simulation
 Apply deep learning + quantum hybrid models
 Improve dataset size and features
+
 🚀 HOW TO RUN (Google Colab):
 
 Open notebook in Google Colab
@@ -62,10 +68,12 @@ Upload 'QSVC CODES.ipynb'
 Upload dataset using: from google.colab import files files.upload()
 Install libraries: !pip install qiskit scikit-learn matplotlib pandas numpy
 Run all cells
+
 ✅ Expected Output:
 
 QSVC accuracy (~95%)
 SVM accuracy (~57%)
 Graphs comparing models
 Performance metrics (Precision, Recall, F1-score)
+
 👩‍💻 Author: S. Aisha Siddika B.Tech – Computer Science & Engineering """
