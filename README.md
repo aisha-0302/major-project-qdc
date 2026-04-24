@@ -1,4 +1,4 @@
-""" 🧠 Quantum Dementia Classification (QDC)
+""" 🧠 Performance of Quantum Machine Learning Algorithm for Prediction of Dementia Disease.
 
 📌 Project Overview: This project focuses on early prediction of dementia using Quantum Machine Learning (QML) techniques. A Quantum Support Vector Classifier (QSVC) is implemented and compared with a classical SVM model to improve prediction accuracy and efficiency. The model uses clinical and cognitive features to classify whether a person is affected by dementia.
 
